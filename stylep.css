@@ -1,0 +1,28 @@
+img {
+  width: 1200px;
+  height: 250px;
+}
+}
+#header {
+  text-align: center;
+}
+#navbar {
+      width: 1200px;
+      margin: -10000;
+      padding: 0;
+      list-style: none;
+      text-align: center;
+      border: 2pt solid black;
+}
+li {
+  display: inline-block;
+  padding: 20px;
+  margin-top: -20px;
+  margin-bottom:-20px;
+}
+#block {
+  text-align:center;
+  background-color:white;
+}
+
+ 
