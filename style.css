@@ -2,7 +2,6 @@ img {
   width: 1200px;
   height: 250px;
 }
-}
 #header {
   text-align: center;
 }
@@ -13,6 +12,7 @@ img {
       list-style: none;
       text-align: center;
       border: 2pt solid black;
+      text-decoration:none;
 }
 a {
 	color: black;
@@ -27,6 +27,9 @@ li {
 #block {
   text-align:center;
   background-color:white;
+  width: 500px;
+  float:right;
+  position: relative;
+  left:-325px;
+  border: 5px solid #6dcecb;
 }
-
- 
