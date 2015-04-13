@@ -12,6 +12,7 @@ img {
       list-style: none;
       text-align: center;
       border: 2pt solid black;
+      text-decoration:none;
 }
 li {
   display: inline-block;
