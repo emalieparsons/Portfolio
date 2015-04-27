@@ -1,4 +1,4 @@
-img {
+.top {
   width: 1200px;
   height: 300px;
 }
@@ -34,5 +34,31 @@ li {
   left:-250px;
   border: 5px solid #6dcecb;
 }
-
+#elephants {
+  width:300px;
+  float: right;
+  margin-right:30px;
+}
+.elephants {
+  height:200px;
+  width:200px;
+}
+#cal {
+  width:300px;
+  float: right;
+  margin-right:30px;
+}
+.cal {
+  height:200px;
+  width:200px;
+}
+#mocad {
+  width:300px;
+  float: right;
+  margin-right:30px;
+}
+.mocad {
+  height:200px;
+  width:200px;
+}
  
