@@ -28,18 +28,75 @@ li {
 #block {
   text-align:center;
   background-color:white;
-  width: 500px;
+  width: 700px;
   float:right;
   position: relative;
-  left:-340px;
+  left:-250px;
   border: 5px solid #6dcecb;
 }
 #about {
-  width:400px;
-  margin-top:500px;
-  margin-bottom:500px;
-  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif>
-  line-height:10px;
+  margin-top:50px;
+  margin-bottom:100px;
+  margin-left:20px;
+  margin-right:20px;
+  font-family:tacoma;
+  line-height:30px;
+}
+#growth {
+  margin-top:50px;
+  margin-bottom:100px;
+  margin-left:20px;
+  margin-right:20px;
+  font-family:tacoma;
+  line-height:30px;
+}
+#inhumanity {
+  margin-top:50px;
+  margin-bottom:100px;
+  margin-left:20px;
+  margin-right:20px;
+  font-family:tacoma;
+  line-height:30px;
+}
+#fun {
+  margin-top:50px;
+  margin-bottom:100px;
+  margin-left:20px;
+  margin-right:20px;
+  font-family:tacoma;
+  line-height:30px;
+}
+#success {
+  margin-top:50px;
+  margin-bottom:100px;
+  margin-left:20px;
+  margin-right:20px;
+  font-family:tacoma;
+  line-height:30px;
+}
+#learning {
+  margin-top:50px;
+  margin-bottom:100px;
+  margin-left:20px;
+  margin-right:20px;
+  font-family:tacoma;
+  line-height:30px;
+}
+#go {
+  margin-top:50px;
+  margin-bottom:100px;
+  margin-left:20px;
+  margin-right:20px;
+  font-family:tacoma;
+  line-height:30px;
+}
+#naked {
+  margin-top:50px;
+  margin-bottom:100px;
+  margin-left:20px;
+  margin-right:20px;
+  font-family:tacoma;
+  line-height:30px;
 }
 
  
