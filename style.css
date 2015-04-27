@@ -34,7 +34,20 @@ li {
   left:-250px;
   border: 5px solid #6dcecb;
 }
-.img {
-  width: 300px;
-  height:300px;
+#words {
+  width:300px;
+  float:right;
+  margin-left:10px;
+  margin-right:50px;
+  margin-top:50px;
+  margin-bottom:50px;
 }
+.img {
+  height:300px;
+  width:300px;
+  float:left;
+  margin-top:50px;
+  margin-bottom:50px;
+  margin-left:10px;
+}
+ 
