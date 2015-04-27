@@ -38,27 +38,40 @@ li {
   width:300px;
   float: right;
   margin-right:30px;
+  margin-top:30px;
+  text-align:left;
 }
 .elephants {
-  height:100px;
-  width:100px;
+  height:300px;
+  width:300px;
 }
 #cal {
   width:300px;
-  float: right;
-  margin-right:30px;
+  text-align:left;
+  margin-left:365px;
 }
 .cal {
-  height:100px;
-  width:100px;
+  margin-top:-450px;
+  margin-right:350px;
+  height:200px;
+  width:200px;
+  
 }
 #mocad {
   width:300px;
   float: right;
   margin-right:30px;
+  margin-top:50px;
+  margin-left:100px;
+  margin-bottom:100px;
+  text-align:left;
 }
 .mocad {
-  height:100px;
-  width:100px;
+  height:200px;
+  width:200px;
+  float:left;
+  margin-left:-300px;
+  margin-top:-200px;
 }
+ 
  
