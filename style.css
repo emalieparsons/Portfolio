@@ -30,7 +30,7 @@ li {
 }
 #block {
   text-align:center;
-  background-color:#6dcecb;
+  background-color: transparent #6dcecb;
   width: 700px;
   float:right;
   position: relative;
