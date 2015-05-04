@@ -5,6 +5,7 @@ img {
 #header {
   text-align: center;
   color: #6dcecb;
+  font-family: 'Rock Salt', cursive;
 }
 #navbar {
       width: 1196px;
@@ -48,6 +49,7 @@ li {
   position: relative;
   left:-250px;
   border: 5px solid #6dcecb;
+  margin-top:25px;
   margin-bottom:50px;
   margin-left:20px;
   margin-right:20px;
