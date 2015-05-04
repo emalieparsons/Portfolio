@@ -36,8 +36,6 @@ li {
   position: relative;
   left:-250px;
   border: 5px solid #6dcecb;
-  opacity: 0.4;
-  filter: alpha(opacity=40);
 }
 #words {
   width:300px;
