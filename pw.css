@@ -38,10 +38,11 @@ li {
   width:300px;
   float: right;
   margin-right:30px;
-  margin-top:30px;
+  margin-top:50px;
   text-align:left;
 }
 .elephants {
+  margin-top:50px;
   height:250px;
   width:200px;
 }
@@ -51,10 +52,11 @@ li {
   margin-left:365px;
 }
 .cal {
-  margin-top:-450px;
-  margin-right:350px;
   height:250px;
   width:200px;
+  float:left;
+  margin-top:50px;
+  margin-left:70px;
   
 }
 #mocad {
