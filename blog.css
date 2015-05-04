@@ -26,6 +26,7 @@ li {
   margin-bottom:-20px;
 }
 #about {
+  color:white;
   text-align:left;
   background-color:#6dcecb;
   width: 700px;
@@ -34,7 +35,6 @@ li {
   left:-250px;
   border: 5px solid #6dcecb;
   margin-top:50px;
-  margin-bottom:50px;
   margin-left:20px;
   margin-right:20px;
   font-family:tacoma;
