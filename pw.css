@@ -42,8 +42,8 @@ li {
   text-align:left;
 }
 .elephants {
-  height:300px;
-  width:200px;
+  height:200px;
+  width:100px;
 }
 #cal {
   width:300px;
@@ -53,8 +53,8 @@ li {
 .cal {
   margin-top:-450px;
   margin-right:350px;
-  height:300px;
-  width:200px;
+  height:200px;
+  width:100px;
   
 }
 #mocad {
@@ -67,8 +67,8 @@ li {
   text-align:left;
 }
 .mocad {
-  height:300px;
-  width:200px;
+  height:200px;
+  width:100px;
   float:left;
   margin-top:50px;
   margin-left:70px;
