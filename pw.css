@@ -48,8 +48,10 @@ li {
 }
 #cal {
   width:300px;
+  float: right;
+  margin-right:30px;
+  margin-top:50px;
   text-align:left;
-  margin-left:365px;
 }
 .cal {
   height:250px;
@@ -64,8 +66,6 @@ li {
   float: right;
   margin-right:30px;
   margin-top:50px;
-  margin-left:100px;
-  margin-bottom:100px;
   text-align:left;
 }
 .mocad {
