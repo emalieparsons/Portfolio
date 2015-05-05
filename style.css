@@ -30,6 +30,7 @@ li {
   margin-bottom:-20px;
 }
 #block {
+  font-family: 'Oswald', sans-serif;
   text-align:center;
   background-color:#6dcecb;
   width: 700px;
@@ -55,29 +56,4 @@ li {
   margin-bottom:50px;
   margin-left:10px;
 }
-#elephants {
-  width:300px;
-  float: right;
-  margin-right:30px;
-}
-.elephants {
-  height:300px;
-  width:300px;
-}
-#cal {
- width:300px;
-  float: right;
-  margin-right:30px;
-.cal {
-height:300px;
-  width:300px;
-}
-#mocad {
-width:300px;
-  float: right;
-  margin-right:30px;
-}
-.mocad {
-height:300px;
-  width:300px;
-}
+
