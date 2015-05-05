@@ -7,7 +7,7 @@ img {
   color: #6dcecb;
 }
 a:hover {
-	color: #6dcecb;
+	color: #f9b775;
 }
 #navbar {
       color:black;
@@ -44,6 +44,11 @@ li {
   font-family:tacoma;
   line-height:30px;
 }
+#about div {
+  text-align:center;
+  color:#f9b775;
+  font-size:25pt;
+}
 #growth {
   text-align:left;
   background-color:#6dcecb;
@@ -58,5 +63,10 @@ li {
   margin-right:30px;
   font-family:tacoma;
   line-height:30px;
+}
+#growth div {
+  text-align:center;
+  color:#f9b775;
+  font-size:25pt;
 }
  
