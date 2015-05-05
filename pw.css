@@ -80,6 +80,9 @@ li {
 .mocad {
   height:250px;
   width:200px;
+  padding-top:50px;
+  padding-left:50px;
+  padding-bottom:50px;
 }
 #block #elephants h3 {
   font-size:20pt;
