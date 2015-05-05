@@ -15,9 +15,10 @@ img {
       text-align: center;
       border: 2pt solid black;
       text-decoration:none;
+      background-color:#CCCCCC;
 }
 a {
-	color: black;
+	color: #CCCCCC;
 	text-decoration:none;
 }
 li {
@@ -27,7 +28,7 @@ li {
   margin-bottom:-20px;
 }
 #about {
-  color:white;
+  color:#CCCCCC;
   text-align:left;
   background-color:#6dcecb;
   width: 700px;
