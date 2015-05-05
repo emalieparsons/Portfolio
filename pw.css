@@ -50,7 +50,7 @@ li {
   text-align:left;
 }
 .elephants {
-  margin-top:20px;
+  margin-top:40px;
   height:250px;
   width:200px;
 }
@@ -58,7 +58,7 @@ li {
   width:300px;
   float:right;
   margin-top:20px;
-  margin-left:200px;
+  margin-left:50px;
 }
 .cal {
   height:250px;
@@ -78,7 +78,7 @@ li {
   width:200px;
   float:left;
   margin-top:20px;
-  margin-left:85px;
+  margin-left:50px;
 }
 #block #elephants h3 {
   font-size:20pt;
