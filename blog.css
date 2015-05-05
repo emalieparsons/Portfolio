@@ -8,7 +8,7 @@ img {
   font-size:30pt;
 }
 a:hover {
-	color: #f9b775;
+	color:#ee7600;
 }
 #navbar {
       color:black;
@@ -47,7 +47,7 @@ li {
 }
 #about div {
   text-align:center;
-  color:#e54528;
+  color:#ee7600;
   font-size:25pt;
 }
 #growth {
@@ -67,7 +67,7 @@ li {
 }
 #growth div {
   text-align:center;
-  color:#e54528;
+  color:#ee7600;
   font-size:25pt;
 }
  
