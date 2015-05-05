@@ -69,6 +69,7 @@ li {
   margin-top:20px;
   margin-left:85px;
   margin-top:50px;
+  margin-bottom:50px;
 }
 #mocad {
   width:300px;
@@ -83,8 +84,6 @@ li {
   width:200px;
   float:left;
   margin-bottom:50px;
-  margin-top:50px;
-  margin-left:50px;
 }
 #block #elephants h3 {
   font-size:20pt;
