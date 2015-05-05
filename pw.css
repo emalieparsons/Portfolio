@@ -5,7 +5,10 @@
 #header {
   text-align: center;
   color: #6dcecb;
-  font-family: 'Special Elite', cursive;
+  font-size:20pt;
+}
+a:hover {
+  color:#ee7600;
 }
 #navbar {
       width: 1196px;
@@ -35,15 +38,23 @@ li {
   left:-250px;
   border: 5px solid #6dcecb;
 }
+#block h3 {
+  font-size:25pt;
+  color:#ee7600;
+}
 #elephants {
   width:300px;
   float: right;
   margin-right:30px;
-  margin-top:50px;
+  margin-top:20px;
   text-align:left;
 }
+#block #elephants h3 {
+  font-size:20pt;
+  color:#ee7600;
+}
 .elephants {
-  margin-top:50px;
+  margin-top:20px;
   height:250px;
   width:200px;
 }
@@ -53,6 +64,10 @@ li {
   margin-right:30px;
   margin-top:50px;
   text-align:left;
+}
+#block #cal h3 {
+  font-size:20pt;
+  color:#ee7600;
 }
 .cal {
   height:250px;
@@ -69,6 +84,10 @@ li {
   margin-top:50px;
   margin-left: 300px;
   text-align:left;
+}
+#block #mocad h3 {
+  font-size:20pt;
+  color:#ee7600;
 }
 .mocad {
   height:250px;
