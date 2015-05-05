@@ -49,10 +49,6 @@ li {
   margin-top:20px;
   text-align:left;
 }
-#block #elephants h3 {
-  font-size:20pt;
-  color:#ee7600;
-}
 .elephants {
   margin-top:20px;
   height:250px;
@@ -60,12 +56,8 @@ li {
 }
 #cal {
   width:300px;
-  float:rigth
+  float:right;
   margin-left:300px;
-}
-#block #cal h3 {
-  font-size:20pt;
-  color:#ee7600;
 }
 .cal {
   height:250px;
@@ -76,14 +68,22 @@ li {
   width:300px;
   float:right;
 }
-#block #mocad h3 {
-  font-size:20pt;
-  color:#ee7600;
-}
 .mocad {
   height:250px;
   width:200px;
   float:left;
+}
+#block #elephants h3 {
+  font-size:20pt;
+  color:#ee7600;
+}
+#block #cal h3 {
+  font-size:20pt;
+  color:#ee7600;
+}
+#block #mocad h3 {
+  font-size:20pt;
+  color:#ee7600;
 }
  
  
