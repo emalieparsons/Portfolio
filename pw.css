@@ -60,6 +60,7 @@ li {
 }
 #cal {
   width:300px;
+  float:rigth
 
 }
 #block #cal h3 {
@@ -69,10 +70,11 @@ li {
 .cal {
   height:250px;
   width:200px;  
+  float:left;
 }
 #mocad {
   width:300px;
-
+  float:right;
 }
 #block #mocad h3 {
   font-size:20pt;
@@ -81,6 +83,7 @@ li {
 .mocad {
   height:250px;
   width:200px;
+  float:left;
 }
  
  
