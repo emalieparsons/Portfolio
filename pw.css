@@ -61,7 +61,7 @@ li {
 #cal {
   width:300px;
   float:rigth
-
+  margin-left:300px;
 }
 #block #cal h3 {
   font-size:20pt;
