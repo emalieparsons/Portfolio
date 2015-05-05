@@ -47,9 +47,7 @@ li {
   margin-bottom:50px;
   line-height:20px;
   color:black;
-}
-#words div p{
-  color:#ee7600
+  font-size:14pt;
 }
 .img {
   height:350px;
