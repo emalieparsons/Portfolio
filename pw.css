@@ -60,10 +60,7 @@ li {
 }
 #cal {
   width:300px;
-  float: right;
-  margin-right:30px;
-  margin-top:50px;
-  text-align:left;
+
 }
 #block #cal h3 {
   font-size:20pt;
@@ -71,19 +68,11 @@ li {
 }
 .cal {
   height:250px;
-  width:200px;
-  float:left;
-  margin-top:70px;
-  margin-left:300px;
-  
+  width:200px;  
 }
 #mocad {
   width:300px;
-  float: right;
-  margin-right:30px;
-  margin-top:50px;
-  margin-left: 300px;
-  text-align:left;
+
 }
 #block #mocad h3 {
   font-size:20pt;
@@ -92,10 +81,6 @@ li {
 .mocad {
   height:250px;
   width:200px;
-  float:left;
-  margin-top:70px;
-  margin-left:83px;
-  margin-bottom:70px;
 }
  
  
