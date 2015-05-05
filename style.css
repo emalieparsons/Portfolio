@@ -3,11 +3,12 @@
   height:300px;
 }
 a:hover {
-	color:#181a74;
+	color:#ee7600;
 }
 #header {
   text-align:center;
   color: #6dcecb;
+  font-size:20px;
 }
 #navbar {
       width: 1196px;
@@ -29,7 +30,6 @@ li {
   margin-bottom:-20px;
 }
 #block {
-  font-family: 'Oswald', sans-serif;
   text-align:left;
   background-color:#6dcecb;
   width: 700px;
@@ -46,6 +46,9 @@ li {
   margin-top:40px;
   margin-bottom:50px;
   line-height:20px;
+}
+#word div {
+  color:#ee7600
 }
 .img {
   height:350px;
