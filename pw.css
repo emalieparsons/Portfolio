@@ -57,21 +57,24 @@ li {
 #cal {
   width:300px;
   float:right;
-  margin-left:300px;
+  margin-top:20px;
 }
 .cal {
   height:250px;
   width:200px;  
   float:left;
+  margin-top:20px;
 }
 #mocad {
   width:300px;
   float:right;
+  margin-top:20px;
 }
 .mocad {
   height:250px;
   width:200px;
   float:left;
+  margin-top:20px;
 }
 #block #elephants h3 {
   font-size:20pt;
